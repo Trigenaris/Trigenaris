@@ -33,3 +33,5 @@ My name is Yigit Bayazit and I am a Maritime Transportation and Management Engin
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Trigenaris&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Trigenaris)  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Trigenaris)
