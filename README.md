@@ -5,25 +5,26 @@
 
 <h1 align="center">Hi there, I'm Yigit Bayazit </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trigenaris)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yigit-bayazit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ygtbyzt@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trigenaris)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yigit-bayazit/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ygtbyzt@gmail.com)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/trigenaris)  
 
 <hr>
 
 My name is Yigit Bayazit and I am a Maritime Transportation and Management Engineer also interested in Software Development and Data Science. This time, I navigated onto a different course and changed my career. I enjoy learning languages like **Python, SQL, HTML, CSS, and JavaScript**. I practice heavily on the referred languages and actively create and improve repositories.
 
-## Skills:
+## 🛠️ Skills:
 * 🐍 Python
-* 🛢️ SQL
+* 🛢️ SQL, MySQL, PostgreSQL, SQLite, SQL Server
 * 📈 Microsoft Excel
 
-## Hobbies:
+## 🎸 Hobbies:
 * Playing the guitar
+* Reading
 * Writing novels
 * Building fantasy worlds
 * Creating fantasy maps
 * Exercising and running
 * Music production on **Cubase**
-* Petting cats!
+* Petting cats! ฅᨐฅ
 
 ![She is helping me while I rest](https://github.com/Trigenaris/Trigenaris/blob/main/sebnem11.jpg)
 
