@@ -11,10 +11,19 @@
 
 My name is Yigit Bayazit and I am a Maritime Transportation and Management Engineer also interested in Software Development and Data Science. This time, I navigated onto a different course and changed my career. I enjoy learning languages like **Python, SQL, HTML, CSS, and JavaScript**. I practice heavily on the referred languages and actively create and improve repositories.
 
-Skills:
-* Python
-* SQL
-* Microsoft Excel
+## Skills:
+* 🐍 Python
+* 🛢️ SQL
+* 📈 Microsoft Excel
+
+## Hobbies:
+* Playing the guitar
+* Writing novels
+* Building fantasy worlds
+* Creating fantasy maps
+* Exercising and running
+* Music production on **Cubase**
+* Petting cats!
 
 ![She is helping me while I rest](https://github.com/Trigenaris/Trigenaris/blob/main/sebnem11.jpg)
 
