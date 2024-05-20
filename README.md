@@ -7,6 +7,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trigenaris)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yigit-bayazit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ygtbyzt@gmail.com)  
 
+<hr>
+
 My name is Yigit Bayazit and I am a Maritime Transportation and Management Engineer also interested in Software Development and Data Science. This time, I navigated onto a different course and changed my career. I enjoy learning languages like **Python, SQL, HTML, CSS, and JavaScript**. I practice heavily on the referred languages and actively create and improve repositories.
 
 Skills:
@@ -14,7 +16,7 @@ Skills:
 * SQL
 * Microsoft Excel
 
-
+![She is helping me while I rest](https://github.com/Trigenaris/Trigenaris/blob/main/sebnem11.jpg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trigenaris)](https://github.com/anuraghazra/github-readme-stats)
