@@ -12,6 +12,8 @@ My name is Yigit Bayazit and I am a Maritime Transportation and Management Engin
 * 🛢️ SQL, MySQL, PostgreSQL, SQLite, SQL Server
 * 📈 Microsoft Excel
 
+<hr>
+
 ## 🎸 Hobbies:
 * Playing the guitar
 * Reading
@@ -25,7 +27,15 @@ My name is Yigit Bayazit and I am a Maritime Transportation and Management Engin
 <hr>
 
 # 📧 Contact Me: <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trigenaris)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yigit-bayazit-0a0209a3/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ygtbyzt@gmail.com)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/trigenaris)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trigenaris)      #### Github
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yigit-bayazit-0a0209a3/)      #### Linkedin
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ygtbyzt@gmail.com)      #### E-mail
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/trigenaris)      #### Kaggle
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t)      #### Goodreads
 
 <hr>
 
