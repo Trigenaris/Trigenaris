@@ -58,7 +58,10 @@ My name is Yigit Bayazit and I am a Maritime Transportation and Management Engin
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/trigenaris)      [Kaggle](https://www.kaggle.com/trigenaris)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ygtbyzt)      [HackerRank](https://www.hackerrank.com/profile/ygtbyzt) 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t)      [Goodreads](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t)
+
 
 <hr>
 
