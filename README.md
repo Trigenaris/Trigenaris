@@ -60,18 +60,9 @@ My name is Yigit Bayazit and I am a Maritime Transportation and Management Engin
 <hr>
 
 # 📧 Contact Me: <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trigenaris)      [Github](https://github.com/Trigenaris)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yigit-bayazit-0a0209a3/)      [Linkedin](https://www.linkedin.com/in/yigit-bayazit-0a0209a3/) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ygtbyzt@gmail.com)      [E-mail](mailto:ygtbyzt@gmail.com)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/trigenaris)      [Kaggle](https://www.kaggle.com/trigenaris)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ygtbyzt)      [HackerRank](https://www.hackerrank.com/profile/ygtbyzt) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t)      [Goodreads](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t)
-
+[Github](https://github.com/Trigenaris) | [Linkedin](https://www.linkedin.com/in/yigit-bayazit-0a0209a3/) | [E-mail](mailto:ygtbyzt@gmail.com) | [Kaggle](https://www.kaggle.com/trigenaris) | [HackerRank](https://www.hackerrank.com/profile/ygtbyzt) | [Goodreads](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t) |
+-----|-----|-----|-----|-----|-----|
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trigenaris) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yigit-bayazit-0a0209a3/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ygtbyzt@gmail.com) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/trigenaris) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ygtbyzt) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/67637962-yi-it-bayaz-t) |
 
 <hr>
 
